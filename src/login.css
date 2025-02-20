@@ -1,0 +1,53 @@
+#backimg{
+   background-color: black;
+  height: 900px;
+}
+  #hh2{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    color: white;
+    margin-top: -600px;
+    margin-left: 1000px;
+
+  }
+
+  input[type=text],
+  input[type=email],
+  input[type=password] {
+    width: 20%;
+    padding: 12px;
+    margin: 20px ;
+    margin-left: 100px;
+    margin-top: 10px;
+    border: 1px solid #555;
+    border-radius: 10px;
+    background-color: white;
+    color: black;
+    font-weight: bold;
+    font-size: 20px;
+  }
+  
+  #logbtn {
+    width: 10%;
+    padding: 12px;
+    margin-top: 20px;
+    margin-left: 100px;
+    background-color: #e50914;
+    border: none;
+    border-radius: 10px;
+    color: white;
+    font-size: 16px;
+  
+  }
+  
+  #logbtn:hover {
+    background-color: #e50914;
+  }
+  .img5{
+    width: 1500px;
+    height: 700px;
+    margin-top: 60px;
+    border-radius: 20px;
+  }
+ 
